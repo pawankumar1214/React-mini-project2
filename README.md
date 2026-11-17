@@ -1,1 +1,1 @@
-# This is my Second react project in the journey of learning Web Development
+# This is my Second React Project in the journey of learning Web Development
